@@ -1,0 +1,1 @@
+npm install github:Wizzzz/browser-with-fingerprints-without-lock
